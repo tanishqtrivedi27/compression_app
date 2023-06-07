@@ -1,2 +1,2 @@
 # compression_app
-A MERN stack app to compress text, image, audio and video files.
+A web app to compress text using Huffman encoding.
